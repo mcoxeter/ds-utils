@@ -13,4 +13,10 @@ describe('WithoutValue', () => {
     // assert
     expect(actual).toBe('WithoutValue()');
   });
+
+  it('when calling tap, it should not result in the method being invoked', () => {
+    let called = false;
+    sut.tap((x) => (called = true));
+    expect(called).toBe(false);
+  });
 });
