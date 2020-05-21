@@ -1,0 +1,8 @@
+{
+  "type": "minor",
+  "comment": "Added the change",
+  "packageName": "sparcs-utils",
+  "email": "mcoxeter@gamil.com",
+  "dependentChangeType": "patch",
+  "date": "2020-05-21T04:51:14.239Z"
+}
