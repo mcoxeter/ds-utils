@@ -16,8 +16,8 @@
     "type": "git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Michael Coxeter",
+  "license": "GNU",
   "devDependencies": {
     "@types/jest": "^25.2.1",
     "@types/node": "^13.11.1",
